@@ -1,11 +1,10 @@
 ---
 name: memorial-design
-description: A skill for creating works that transform statistics into individual
-  human presence, making the abstract personal and preventing erasure through commemoration.
+description: A skill for creating works that transform statistics into individual human presence, making the abstract personal and preventing erasure through commemoration.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - memorial-design
 - transformation
